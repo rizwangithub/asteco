@@ -37,18 +37,22 @@ a {
 }
 
 .cta {
-    background: #00c4b3;
+    background: #ff2323;
     color: #000;
     text-align: center;
 }
 
-.cta h1 {
+.cta a {}
+
+.cta h1,
+.cta .h5,
+.cta h5 {
     color: #fff;
     font-size: 46px;
 }
 
 .cta a {
-    color: #fff;
+    color: #fff !important;
     font-size: 22px;
     font-weight: 700;
     margin: 20px 0;
