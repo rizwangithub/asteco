@@ -1258,11 +1258,3 @@ section.our-clients {
         font-size: 1.5rem;
     }
 }
-
-.navbar.bg-light {
-    background-color: #ffffffc2 !important;
-    position: absolute;
-    width: 100%;
-    left: 0;
-    top: 0;
-}
